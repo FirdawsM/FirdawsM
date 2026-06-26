@@ -1,148 +1,217 @@
-<h1 align="center">Hi, I'm Firdaws Mohammed 👋</h1>
+<h1 align="center">Hi 👋, I'm Firdaws Mohammed</h1>
+
+<h3 align="center">
+Software Engineer • Cybersecurity Engineer • AI Developer
+</h3>
 
 <p align="center">
-Software Engineer • Cybersecurity Enthusiast • AI Developer
+Building intelligent software, secure systems, and AI-powered applications.
 </p>
 
 <p align="center">
-Building secure software, AI-powered applications, and cloud solutions that solve real-world problems.
-</p>
-
-<p align="center">
-<a href="https://firdawsalnuur.github.io">
-<img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/firdaws-alnuur/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/FirdawsM">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://firdawsm.github.io/firdawsalnuur.github.io/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/">LinkedIn</a> •
+<a href="mailto:firdawsalnuur4@gmail.com">Email</a>
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineering graduate passionate about building secure systems, AI applications, and cloud-native software.
-
-I enjoy solving real-world problems through automation, cybersecurity, and intelligent software engineering.
-
-Currently I'm focused on:
-
-- 🛡 Detection Engineering
-- 🤖 Artificial Intelligence
-- ☁ Cloud Security
-- ⚙ Backend Development
-- 🌍 Open Source
+- 🎓 Software Engineering Graduate
+- 🔭 Currently building **Exam Analyzer AI**
+- 🤝 Looking to collaborate on **ErrorSolve**
+- 🌱 Currently learning **Detection Engineering, AI Agents & Cloud Security**
+- 💬 Ask me about **Python, Java, AI, Cybersecurity & Backend Development**
+- 📫 Reach me at **firdawsalnuur4@gmail.com**
 
 ---
 
-# Featured Projects
+##  Featured Projects
 
-## 🛡 Home SOC Lab
+###  Exam Analyzer AI
 
-Security Operations Center built using
+AI-powered revision assistant that analyzes previous exam papers, predicts high-frequency topics, and generates personalized revision plans.
+
+**Tech:** Python • OCR • Machine Learning • AI
+
+---
+
+###  ErrorSolve
+
+Developer assistant that explains software errors using AI and recommends practical fixes directly inside VS Code.
+
+**Tech:** TypeScript • VS Code Extension • AI
+
+---
+
+### 🛡 Home SOC Lab
+
+A personal Detection Engineering lab for monitoring, alerting and incident response.
+
+**Stack**
 
 - Wazuh
 - TheHive
 - Shuffle
-- Docker
+- MITRE ATT&CK
 - Windows
 - Linux
 
-Designed for detection engineering and security automation.
-
 ---
 
-# Tech Stack
+##  Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:firdawsalnuur4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/FirdawsM">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+---
+
+## Tech Stack
+
+<table>
+<tr>
+
+<td align="center" width="20%">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,typescript,javascript,bash,c,cpp"/>
 
-### Frameworks
+</td>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<td align="center" width="20%">
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,laravel"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,vite"/>
+
+</td>
+
+<td align="center" width="20%">
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare"/>
+
+</td>
+
+<td align="center" width="20%">
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase"/>
 
-### Security
+</td>
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<td align="center" width="20%">
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br><br>
+
+Python • Pandas • NumPy
+
+<br>
+
+Scikit-Learn
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="5" align="center">
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<br><br>
+
+Canva • Sketch
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-#  GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FirdawsM&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FirdawsM&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdawsM&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
+---
+
+## Contribution Graph
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=FirdawsM&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirdawsM&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-#  GitHub Achievements
-
-| Achievement | Status |
-|-------------|--------|
-| Quickdraw | ✅ |
-| Pull Shark ×2 | ✅ |
-| YOLO | ✅ |
-
----
-
-# Contribution Graph
-
-[![Firdaws's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FirdawsM&theme=github-dark)](https://github.com/FirdawsM)
-
----
-
-# 🎯 2026 Goals
-
-- Build production-ready AI products
-- Contribute to open source
-- Earn professional cybersecurity certifications
-- Become a Security Engineer / AI Engineer
-
----
+##  GitHub Achievements
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=FirdawsM&style=for-the-badge"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
+
 </p>
 
+---
+
+##  Current Focus
+
+- Detection Engineering
+- AI Applications
+- Cloud Security
+- Backend Development
+- Open Source Contributions
+
+---
+
 <p align="center">
+
 <i>"Build secure. Build smart. Keep learning."</i>
+
 </p>
