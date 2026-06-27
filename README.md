@@ -158,10 +158,6 @@ Canva • Sketch
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/FirdawsM">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
