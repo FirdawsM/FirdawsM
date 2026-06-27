@@ -27,60 +27,6 @@ Building intelligent software, secure systems, and AI-powered applications.
 
 ---
 
-##  Featured Projects
-
-###  Exam Analyzer AI
-
-AI-powered revision assistant that analyzes previous exam papers, predicts high-frequency topics, and generates personalized revision plans.
-
-**Tech:** Python • OCR • Machine Learning • AI
-
----
-
-###  ErrorSolve
-
-Developer assistant that explains software errors using AI and recommends practical fixes directly inside VS Code.
-
-**Tech:** TypeScript • VS Code Extension • AI
-
----
-
-### 🛡 Home SOC Lab
-
-A personal Detection Engineering lab for monitoring, alerting and incident response.
-
-**Stack**
-
-- Wazuh
-- TheHive
-- Shuffle
-- MITRE ATT&CK
-- Windows
-- Linux
-
----
-
-##  Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:firdawsalnuur4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/FirdawsM">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
----
-
 ## Tech Stack
 
 <table>
@@ -176,16 +122,6 @@ Canva • Sketch
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FirdawsM&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 ##  GitHub Achievements
 
 <p align="center">
@@ -207,6 +143,26 @@ Canva • Sketch
 - Cloud Security
 - Backend Development
 - Open Source Contributions
+
+---
+
+##  Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:firdawsalnuur4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/FirdawsM">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
