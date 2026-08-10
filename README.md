@@ -1,169 +1,143 @@
-<h1 align="center">Hi 👋, I'm Firdaws Mohammed</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Cybersecurity Engineer • AI Developer
-</h3>
+```
+$ whoami
+firdaws mohammed — software engineer / cybersecurity engineer / ai developer
 
-<p align="center">
-Building intelligent software, secure systems, and AI-powered applications.
-</p>
+$ uptime
+building intelligent software, secure systems, and ai-powered applications since boot
 
-<p align="center">
-<a href="https://firdawsm.github.io/firdawsalnuur.github.io/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/">LinkedIn</a> •
-<a href="mailto:firdawsalnuur4@gmail.com">Email</a>
-</p>
+$ status
+[ONLINE] currently building Exam Analyzer AI
+[LISTENING] open to collaborating on ErrorSolve
+[LEARNING] detection engineering · ai agents · cloud security
+```
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://firdawsm.github.io/firdawsalnuur.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-alnuur-b2788722a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdawsalnuur4@gmail.com)
 
-## 👨‍💻 About Me
-
-- 🎓 Software Engineering Graduate
-- 🔭 Currently building **Exam Analyzer AI**
-- 🤝 Looking to collaborate on **ErrorSolve**
-- 🌱 Currently learning **Detection Engineering, AI Agents & Cloud Security**
-- 💬 Ask me about **Python, Java, AI, Cybersecurity & Backend Development**
-- 📫 Reach me at **firdawsalnuur4@gmail.com**
-
----
-
-## Tech Stack
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,typescript,javascript,bash,c,cpp"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### Web & Backend
-
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,laravel"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,vite"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,cloudflare"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase"/>
-
-</td>
-
-<td align="center" width="20%">
-
-### AI
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<br><br>
-
-Python • Pandas • NumPy
+</div>
 
 <br>
 
-Scikit-Learn
+## `> system.info`
 
-</td>
+```yaml
+role:        Software Engineering Graduate
+building:    Exam Analyzer AI
+seeking:     Collaborators for ErrorSolve
+learning:    Detection Engineering, AI Agents, Cloud Security
+ask_me:      Python, Java, AI, Cybersecurity, Backend Development
+contact:     firdawsalnuur4@gmail.com
+```
 
-</tr>
+<br>
 
-<tr>
+## `> tech.stack`
 
-<td colspan="5" align="center">
+**Languages**
 
-### Design
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+**Web & Backend**
 
-<br><br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Canva • Sketch
+**Cloud & DevOps**
 
-</td>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-</tr>
+**Databases**
 
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+**AI / ML**
 
-## GitHub Statistics
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<p align="center">
+**Design**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FirdawsM&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdawsM&layout=compact&theme=github_dark&hide_border=true"/>
+<br>
 
-</p>
+## `> metrics.log`
 
----
+<div align="center">
 
-##  GitHub Achievements
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FirdawsM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdawsM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<p align="center">
+<br>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FirdawsM&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85"/>
+</div>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85"/>
+<br>
 
-</p>
+## `> achievements.list`
 
----
+<div align="center">
 
-##  Current Focus
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75"/>
 
-- Detection Engineering
-- AI Applications
-- Cloud Security
-- Backend Development
-- Open Source Contributions
+</div>
 
----
+<br>
 
-##  Connect With Me
+## `> current.focus`
 
-<p align="left">
+- [ ] Detection Engineering
+- [ ] AI Applications
+- [ ] Cloud Security
+- [ ] Backend Development
+- [ ] Open Source Contributions
 
-<a href="https://www.linkedin.com/in/firdaws-alnuur-b2788722a/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<br>
 
-<a href="mailto:firdawsalnuur4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+## `> connect`
 
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-alnuur-b2788722a/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:firdawsalnuur4@gmail.com)
 
-<p align="center">
+<br>
 
-<i>"Build secure. Build smart. Keep learning."</i>
+<i>build secure. build smart. keep learning.</i>
 
-</p>
+</div>
