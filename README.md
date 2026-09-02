@@ -80,12 +80,7 @@ $ focus   →  Detection Engineering · AI Agents · Cloud Security
 
 <br>
 
-<div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=FirdawsM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117"/>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=FirdawsM&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-</div>
 
 <br>
 
