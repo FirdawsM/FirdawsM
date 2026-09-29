@@ -14,10 +14,6 @@ building intelligent software, secure systems, and AI-powered applications
 
 <br>
 
-```
-$ status  →  building Exam Analyzer AI · open to ErrorSolve collaborators
-$ focus   →  Detection Engineering · AI Agents · Cloud Security
-```
 
 <br>
 
