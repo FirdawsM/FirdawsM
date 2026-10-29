@@ -36,16 +36,20 @@ Cybersecurity-focused Informatics and Computer Science graduate working across v
 
 I enjoy understanding how systems fail, investigating suspicious behavior, and building practical tools that make security work more efficient. My interests span offensive security, defensive engineering, and machine learning applications in cybersecurity.
 
-```bash
-firdaws@security-lab:~$ cat current_focus.txt
+<div align="center">
 
-[+] Web Application Security
-[+] Vulnerability Assessment & Remediation
-[+] Threat Detection & Incident Response
-[+] Windows & Active Directory Security
-[+] Security Automation
-[+] Machine Learning for Cybersecurity
-```
+### ◈ CURRENT OPERATIONS
+
+**SECURITY LAB / FOCUS AREAS**
+
+<img src="https://img.shields.io/badge/01-WEB_SECURITY-ff6b6b?style=for-the-badge" /> <img src="https://img.shields.io/badge/02-VULNERABILITY_ASSESSMENT-f7b267?style=for-the-badge" /> <img src="https://img.shields.io/badge/03-THREAT_DETECTION-7bdff2?style=for-the-badge" /> <img src="https://img.shields.io/badge/04-ACTIVE_DIRECTORY-b2f7ef?style=for-the-badge" /> <img src="https://img.shields.io/badge/05-SECURITY_AUTOMATION-cdb4db?style=for-the-badge" /> <img src="https://img.shields.io/badge/06-ML_FOR_CYBERSECURITY-a0c4ff?style=for-the-badge" />
+
+<br/>
+
+`WEB APP SECURITY` · `THREAT HUNTING` · `SECURITY ENGINEERING`
+
+</div>
+
 
 ## ◈ Featured Projects
 
