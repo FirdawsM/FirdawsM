@@ -1,92 +1,195 @@
 <div align="center">
 
-# Firdaws Mohammed
+```text
+███████ ██ ██████  ██████   █████  ██     ██ ███████      █████  ██      ███    ██ ██    ██ ██    ██ ██████  
+██      ██ ██   ██ ██   ██ ██   ██ ██     ██ ██          ██   ██ ██      ████   ██ ██    ██ ██    ██ ██   ██ 
+█████   ██ ██████  ██   ██ ███████ ██  █  ██ ███████     ███████ ██      ██ ██  ██ ██    ██ ██    ██ ██████  
+██      ██ ██   ██ ██   ██ ██   ██ ██ ███ ██      ██     ██   ██ ██      ██  ██ ██ ██    ██ ██    ██ ██   ██ 
+██      ██ ██   ██ ██████  ██   ██  ███ ███  ███████     ██   ██ ███████ ██   ████  ██████   ██████  ██   ██ 
+                                                                                                             
+```
 
-**Software Engineer · Cybersecurity Engineer · AI Developer**
 
-building intelligent software, secure systems, and AI-powered applications
+**System Engineer · Cybersecurity Engineer · AI Enthusiast**
+
+building secure systems, investigating threats, and developing intelligent security tools
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://firdawsm.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-alnuur-b2788722a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:firdawsalnuur4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FirdawsM)
+
+<br>
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Assessment%20%26%20Defense-7B68EE?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-Web%20%26%20Infrastructure-E74C3C?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-20A486?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-009688?style=flat-square)
 
 </div>
 
 <br>
 
+## ◈ whoami
 
-<br>
+Cybersecurity-focused Informatics and Computer Science graduate working across vulnerability assessment, systems security, threat detection, and security automation.
+
+I enjoy understanding how systems fail, investigating suspicious behavior, and building practical tools that make security work more efficient. My interests span offensive security, defensive engineering, and machine learning applications in cybersecurity.
+
+```bash
+firdaws@security-lab:~$ cat current_focus.txt
+
+[+] Web Application Security
+[+] Vulnerability Assessment & Remediation
+[+] Threat Detection & Incident Response
+[+] Windows & Active Directory Security
+[+] Security Automation
+[+] Machine Learning for Cybersecurity
+```
+
+## ◈ Featured Projects
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### VAPTforge
+
+**A Docker-based web vulnerability assessment toolkit**
+
+A project focused on bringing multiple security assessment tools into one workflow, reducing the need to install individual tools directly on the host machine.
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+![Web Security](https://img.shields.io/badge/Web-Security-E74C3C?style=flat-square)
+![Automation](https://img.shields.io/badge/Security-Automation-7B68EE?style=flat-square)
+
+**Project focus**
+Integrating web reconnaissance and assessment tools.
+Organizing tool execution into a unified workflow.
+Handling individual tool failures without unnecessarily stopping the assessment.
+Presenting assessment results in a structured report.
+
+[![Explore VAPTforge](https://img.shields.io/badge/Explore-VAPTforge-181717?style=for-the-badge&logo=github)](https://github.com/FirdawsM/vaptforge)
+
+---
+
+### Malware Research & Detection
+
+Investigated a custom C# keylogger in a controlled lab, examining keystroke capture, local storage, and SMTP-based data exfiltration. Compared signature-based and behavior-based antivirus detection.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Detection-8A2BE2?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-E74C3C?style=flat-square)
+
+---
+
+### Phishing URL Classifier
+
+Built a Random Forest classifier using a dataset of 10,000 URLs, achieving 85.2% detection accuracy during project evaluation. Explored feature engineering and threat intelligence enrichment.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-20A486?style=flat-square)
+
+---
+
+### Active Directory & Windows Lab
+
+Built an enterprise-style Windows Server 2019 lab with Active Directory, DNS, DHCP, NAT, and PowerShell automation. Provisioned more than 1,000 domain users.
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Identity-4169E1?style=flat-square)
+
+---
+
+### Vulnerability Management Lab
+
+Practiced credentialed vulnerability scanning, risk-based prioritization, remediation, and verification in a controlled Windows environment.
+
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-E67E22?style=flat-square)
+
+---
+
+### ARP Poisoning & Incident Response
+
+Simulated an ARP poisoning scenario in a controlled lab, analyzing network traffic, identifying the attack, and documenting mitigation measures.
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident-Response-E74C3C?style=flat-square)
+
+</div>
+
+## ◈ My Security Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Rules-8A2BE2?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B6688?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 <details>
-<summary><b>Full stack</b></summary>
+<summary><b>Explore my broader technical stack</b></summary>
+
 <br>
 
-**Languages**
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Programming & Automation**
 
-**Web & Backend**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Rules-8A2BE2?style=flat-square)
 
-**Cloud & DevOps**
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+**Security Operations & Forensics**
 
-**Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3B6688?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-Incident_Response-F5A623?style=flat-square)
+![Autopsy](https://img.shields.io/badge/Autopsy-Digital_Forensics-444444?style=flat-square)
 
-**AI / ML & Design**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+**Infrastructure & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </details>
 
 </div>
 
-<br>
 
-
-
-<br>
+## ◈ Let's Connect
 
 <div align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60"/>
+Interested in security engineering, vulnerability assessment, threat detection, and building practical cybersecurity tools.
 
-<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://firdawsm.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firdaws-alnuur-b2788722a/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firdawsalnuur4@gmail.com)
+
+<br>
 
 <i>build secure. build smart. keep learning.</i>
 
