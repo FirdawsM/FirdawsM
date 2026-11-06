@@ -31,9 +31,9 @@ building secure systems, investigating threats, and developing intelligent secur
 
 ## ◈ whoami
 
-Cybersecurity-focused Informatics and Computer Science graduate working across vulnerability assessment, systems security, threat detection, and security automation.
+Cybersecurity and Network security-focused Informatics and Computer Science graduate working across vulnerability assessment, systems security, threat detection, network analysis, and security automation.
 
-I enjoy understanding how systems fail, investigating suspicious behavior, and building practical tools that make security work more efficient. My interests span offensive security, defensive engineering, and machine learning applications in cybersecurity.
+I enjoy understanding how systems and networks fail, investigating suspicious behavior, and building practical tools that make security work more efficient. My interests span offensive security, defensive engineering, and machine learning applications in cybersecurity.
 
 <div align="center">
 
