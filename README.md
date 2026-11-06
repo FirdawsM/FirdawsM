@@ -10,7 +10,7 @@
 ```
 
 
-**System Engineer · Cybersecurity Engineer · AI Enthusiast**
+**System Engineer · Cybersecurity Engineer · Network Engineer · AI Enthusiast**
 
 building secure systems, investigating threats, and developing intelligent security tools
 
